@@ -1,0 +1,5 @@
+<map id="del_choice" name="del_choice">
+<area shape="rect" id="node3" href="$dazzle_8h.html#aa76b32e6c38e62a7494c05bafca910de" title="删除边或节点的选择提示" alt="" coords="149,5,213,35"/>
+<area shape="rect" id="node7" href="$dazzle_8h.html#a7bc36351e86cce10f63c18f65735b747" title="删除边" alt="" coords="140,59,223,88"/>
+<area shape="rect" id="node5" href="$dazzle_8h.html#addc2844a7abef641f8dbdfaba92755ae" title="查找未用过的节点位置" alt="" coords="272,32,355,61"/>
+</map>
